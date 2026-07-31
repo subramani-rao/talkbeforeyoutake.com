@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111c"/><stop offset="1" stop-color="#10283a"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="1030" cy="80" r="260" fill="#8ed8d2" opacity=".08"/>
+  <circle cx="180" cy="570" r="250" fill="#d9c18b" opacity=".07"/>
+  <text x="85" y="160" fill="#8ed8d2" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">PREMIUM DOMAIN AVAILABLE</text>
+  <text x="85" y="300" fill="#f4f8f8" font-family="Georgia, serif" font-size="78">Talk Before You Take</text>
+  <text x="85" y="390" fill="#d9c18b" font-family="Georgia, serif" font-size="62">.com</text>
+  <text x="85" y="500" fill="#b8c8ce" font-family="Arial, sans-serif" font-size="28">Patient safety · Medication awareness · Healthcare education</text>
+</svg>
